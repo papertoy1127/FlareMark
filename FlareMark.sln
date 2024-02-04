@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlareMark", "FlareMark\FlareMark.csproj", "{D0DBC3D8-B49C-4942-B050-5B0493A3488D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0DBC3D8-B49C-4942-B050-5B0493A3488D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DBC3D8-B49C-4942-B050-5B0493A3488D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DBC3D8-B49C-4942-B050-5B0493A3488D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DBC3D8-B49C-4942-B050-5B0493A3488D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\Project\FlareMark\FlareMark\bin\Debug\net8.0\FlareMark.exe
+D:\Project\FlareMark\FlareMark\bin\Debug\net8.0\FlareMark.deps.json
+D:\Project\FlareMark\FlareMark\bin\Debug\net8.0\FlareMark.runtimeconfig.json
+D:\Project\FlareMark\FlareMark\bin\Debug\net8.0\FlareMark.dll
+D:\Project\FlareMark\FlareMark\bin\Debug\net8.0\FlareMark.pdb
+D:\Project\FlareMark\FlareMark\obj\Debug\net8.0\FlareMark.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\FlareMark\FlareMark\obj\Debug\net8.0\FlareMark.AssemblyInfoInputs.cache
+D:\Project\FlareMark\FlareMark\obj\Debug\net8.0\FlareMark.AssemblyInfo.cs
+D:\Project\FlareMark\FlareMark\obj\Debug\net8.0\FlareMark.csproj.CoreCompileInputs.cache
+D:\Project\FlareMark\FlareMark\obj\Debug\net8.0\FlareMark.dll
+D:\Project\FlareMark\FlareMark\obj\Debug\net8.0\refint\FlareMark.dll
+D:\Project\FlareMark\FlareMark\obj\Debug\net8.0\FlareMark.pdb
+D:\Project\FlareMark\FlareMark\obj\Debug\net8.0\FlareMark.genruntimeconfig.cache
+D:\Project\FlareMark\FlareMark\obj\Debug\net8.0\ref\FlareMark.dll
